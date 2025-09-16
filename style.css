@@ -133,3 +133,7 @@ display: flex;
 justify-content: center;
 
 }
+.hero{
+    display: flex;
+    justify-content: center;
+}
